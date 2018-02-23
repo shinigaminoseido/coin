@@ -1,0 +1,1 @@
+shinigaminoseido.github.io
