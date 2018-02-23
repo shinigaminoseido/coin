@@ -1,0 +1,16 @@
+.page-main {
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 1fr 2fr 1fr;
+  grid-template-areas: ". title ." ". miner ."
+}
+
+.page-main__title {
+  grid-area: title;
+  margin: 0 auto;
+}
+
+.coinhive-miner {
+  grid-area: miner;
+  margin: 50px auto;
+}
