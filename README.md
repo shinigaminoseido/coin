@@ -1,1 +1,1 @@
-shinigaminoseido.github.io
+Github pages seems cool.
